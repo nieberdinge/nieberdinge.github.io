@@ -2,3 +2,26 @@
   body {
     background-color: powderblue;
   }
+.project{
+    border-style: solid;
+    border-radius: 20px;
+    width: 200px;
+    text-align:center;
+}
+.project:hover{
+    background-color: cornsilk;
+}
+
+.socialLinks{
+    background: ghostwhite; 
+    font-size: 20px; 
+    padding: 10px; 
+    border: 1px solid 
+    lightgray; margin: 10px; 
+    text-align: center;
+    width: 200px;
+    position: fixed;
+    left: 60%;
+    top: 0%
+}
+
